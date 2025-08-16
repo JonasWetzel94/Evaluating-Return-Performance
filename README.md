@@ -175,5 +175,3 @@ _Checks:_ Weights sum to 100% by construction; Divisor anchors index level âœ”ï¸
 - Why **weighting schemes** (equal vs. cap-weighted) lead to different risk/return profiles and require different maintenance (rebalancing vs. drift).
 
 ---
-
-## Repo Structure
